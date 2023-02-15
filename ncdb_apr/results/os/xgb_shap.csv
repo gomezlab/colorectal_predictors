@@ -1,0 +1,33 @@
+feature,importance
+Age,0.24693586
+Insurance Status,0.22941765
+Sex,0.21599863
+T Stage,0.18866813
+Charlson-Deyo Score,0.16980207
+Stage,0.16574343
+Chemotherapy,0.14623883
+Tumor Size,0.092455305
+N Stage,0.08939294
+"Treatment Started, Days from Dx",0.07131274
+"Income, Quartile",0.06552645
+Surgical Margins,0.0494927
+Grade,0.038894903
+Distance from Hospital,0.034536663
+"No High School Degree, Quartile",0.033664476
+Post-op Length of Stay,0.029895557
+Facility Type,0.024709653
+Reason for No Surgery,0.022144327
+APR performed,0.021223683
+Lymphovascular Invasion,0.020643847
+Facility Location,0.019977685
+Race,0.015199565
+Facility Volume Quartile,0.011582472
+Basaloid,0.010774633
+Hispanic Ethnicity,0.009150362
+Pathologic Stage,0.007907574
+Urban/Rural,0.007655697
+Medicaid Expansion,0.00717404
+Post-op Readmission,0.0034657738
+Keratinizing,0.0025852995
+Cloacogenic,0.0011155525
+M Stage,0.0

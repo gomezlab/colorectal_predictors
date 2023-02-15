@@ -1,0 +1,32 @@
+feature,importance
+Lymphovascular Invasion,0.4487405
+CEA value,0.27928707
+Perineural Invasion,0.24203597
+Size of Tumor,0.20491889
+Microsatellite Instability,0.1985385
+Grade,0.15572064
+t_stage,0.06250038
+CEA Interpretation,0.046340592
+KRAS,0.04361335
+Mucinous,0.041850593
+stage,0.04184531
+Facility Location,0.041054673
+Age at Diagnosis,0.037458643
+Primary Payor,0.03525972
+"Facility Volume, Quartile",0.03431376
+Medicaid Expansion Status State Group,0.034313213
+n_stage,0.030254653
+Great Circle Distance,0.026232792
+Facility Type,0.023117512
+Urban/Rural,0.020079935
+Sex,0.017042015
+Charlson-Deyo Score,0.015252187
+Percent No High School Degree Quartiles 2012-2016,0.0129210865
+Median Income Quartiles 2012-2016,0.01269704
+Race,0.0077859517
+Villous,0.0023063214
+Spanish Hispanic Origin,0.0014935355
+Metastatic Liver Involvement,0.0012724895
+Signet Ring,0.00011305084
+m_stage,0.00010221196
+Reason For No Radiation,0.0
